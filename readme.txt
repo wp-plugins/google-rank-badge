@@ -17,8 +17,6 @@ Google Rank Badge will display a badge with your Google page rank via a shortcod
 = How to Use =
 *   In a page or post: [grank]
 
-(Replace the first and last []'s with normal html greater/less than signs).
-
 = Setttings =
 
 *   Highlight color using color picker in admin settings
