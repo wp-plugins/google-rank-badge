@@ -1,8 +1,9 @@
 ﻿=== Google Rank Badge ===
-Contributors: nickpowers 
+Contributors: nickpowers
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9HNSFJ38VVZPQ
 Tags: google page rank badge, google, page rank, google rank, pagerank, site rank, stats, badge, rank, pr
 Requires at least: 2.9
-Tested up to: 3.4
+Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2
 
